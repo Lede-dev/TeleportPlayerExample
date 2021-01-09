@@ -1,0 +1,14 @@
+name: TeleportPlayer
+version: 1.0.0
+author: Lede
+main: me.lede.teleportplayer.Main
+api-version: 1.13
+commands:
+  teleportplayer:
+    aliases: [이동, 티피]
+    permission: user.teleportplayer.use
+  getticket:
+    aliases: [이동주문서, 티켓]
+    permission: user.teleportplayer.ticket
+  
+    
